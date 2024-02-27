@@ -2,6 +2,21 @@
 title: Welcome to The Biodiversity Genomics Academy homepage!
 created: 27/02/2024
 ---
-Welcome to The BGA website!
+>[!info]
+>This website is still early in development so will not be complete for sometime. If there is anything wrong then please contact me, Damon,  at `dp24@sanger.ac.uk`. Likewise if you want to get in early to potentially set up a session, please contact me using the above. A better and more formal form will be available soon!
 
-Going forwards this will be the go to site for all things BGA. Workshops, talks and guides to guide you through the complicated world of bioinformatics.
+## What is The BGA?
+The Biodiversity Genomics Academy is a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org)
+
+BGA was started with [[BGA23]], also found here on the [original site](https://bga23.org/), however, going forward this will be the go to site for all things BGA! All Workshops, talks and guides will be directed to and from here to act as a central point in the eduction of bioinformaticians worldwide!
+
+BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]]) would have been ecstatic with 20 workshops and ~20 each. This culminated in >40 workshops with >1500 attendees. Simply amazing!
+
+For BGA24, we want bigger! More workshops and talks, more attendees, more everything!
+
+The doors arn't open yet but we are working on it!
+
+## FAQs
+Frequently asked questions can be found here: [[FAQs]]
+
+However, to get it out of the way quick, sign ups are not yet open!.
