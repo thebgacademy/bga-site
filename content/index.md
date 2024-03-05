@@ -3,7 +3,7 @@ title: Welcome to The Biodiversity Genomics Academy homepage!
 created: 27/02/2024
 ---
 >[!info]
->This website is still early in development so will not be complete for sometime. If there is anything wrong then please contact me, Damon,  at `dp24@sanger.ac.uk`. Likewise if you want to get in early to potentially set up a session, please contact me using the above. A better and more formal form will be available soon!
+>This website is still early in development so will not be complete for sometime. If there is anything wrong then please contact me, Damon,  at `dp24[@]sanger.ac.uk`. Likewise if you want to get in early to potentially set up a session, please contact me using the above. A better and more formal form will be available soon!
 
 ## What is The BGA?
 The Biodiversity Genomics Academy is a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org)
@@ -14,7 +14,9 @@ BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]])
 
 For BGA24, we want bigger! More workshops and talks, more attendees, more everything!
 
-The doors arn't open yet but we are working on it!
+To register your interest for the year then, here's a form you can fill in!
+
+<div data-fillout-id="s3AzWt1p8Nus" data-fillout-embed-type="popup" data-fillout-inherit-parameters></div><div data-fillout-id="s3AzWt1p8Nus" data-fillout-embed-type="popup" data-fillout-button-text="Register Interest in BGA24!" data-fillout-button-size="medium" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 ## FAQs
 Frequently asked questions can be found here: [[FAQs]]
