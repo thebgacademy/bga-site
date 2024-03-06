@@ -28,5 +28,3 @@ If you already know you want to be a session leader then this is the form for yo
 
 ## FAQs
 Frequently asked questions can be found here: [[FAQs]]
-
-However, to get it out of the way quick, sign ups are not yet open!.
