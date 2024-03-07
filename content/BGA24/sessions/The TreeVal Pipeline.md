@@ -1,5 +1,6 @@
 # Generating evidence for manual curation
 #BGA24/sessions #GitPod
+
 This session is part of [**Biodiversity Genomics Academy**](https://thebgacademy.org)
 
 ## Session Leader(s)

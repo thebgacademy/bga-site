@@ -3,7 +3,7 @@ title: Sessions for 2024
 created: 27/02/2024
 description: The sessions we are planning to host for BGA24
 ---
-# Sessions
+# Sessions for 2024
 
 The moment you've all been waiting for, the sessions list for BGA24...
 

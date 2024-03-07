@@ -1,5 +1,6 @@
 # Introduction to Manual Curation - HiC and JBrowse
 #BGA24/sessions #GitPod
+
 This session is part of [**Biodiversity Genomics Academy**](https://thebgacademyBGA23.org/)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/manual-curation)
