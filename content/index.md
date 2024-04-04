@@ -22,6 +22,8 @@ If you already know you want to be a session leader then this is the form for yo
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
+Find out more about this years BGA [[BGA24|HERE]]
+
 ## What is The BGA?
 
 BGA was started with [[BGA23]], also found here on the [original site](https://bga23.org/), however, going forward this will be the go to site for all things BGA! All Workshops, talks and guides will be directed to and from here to act as a central point in the eduction of bioinformaticians worldwide!
