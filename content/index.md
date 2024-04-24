@@ -4,7 +4,7 @@ created: 27/02/2024
 ---
 
 >[!info]
->This website is still in development and will not be complete for sometime. If there is anything wrong or you need something specific then please contact me, Damon (this years organiser!),  at `dp24[@]sanger.ac.uk`. 
+>This website is still in development and will not be complete for sometime. If there is anything wrong or you need something specific then please contact me, Damon (this years organiser!),  at `damon[@]thebgacademy.org`. 
 
 Here we are planning the future of BGA, a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org) and the field as a whole.
 
@@ -22,7 +22,7 @@ If you already know you want to be a session leader then this is the form for yo
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
-Find out more about this years BGA [[BGA24|HERE]]
+Find out more about this years BGA --> [[BGA24|HERE]] <--
 
 ## What is The BGA?
 

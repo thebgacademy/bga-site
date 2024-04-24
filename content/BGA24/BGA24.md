@@ -1,10 +1,10 @@
 ---
-title: BGA in 2024
+title: BGA24
 created: 04/04/2024
-tags:
-  - BGA24
-  - blog
+tags: [BGA24, blog]
 description: Information about BGA24
+date_created: 15-10_04_2024
+date_modified: 17-24_04_2024
 ---
 
 Like last year we are offering workshops so people can show the community how their project/software/pipeline/analysis can be used and why they should use it. These workshops will, again, be hosted on [GitPod](https://gitpod.io/) which is a pretty perfect platform for this use case. Just beware you have 50 hours free, so if you want to tune into every session we hope to host then you may struggle! It is only 6p (British Pennies) per hour after those 50 hours, so not too bad. 
@@ -25,10 +25,13 @@ For example this collection of workshops would enable an attendee to go from con
 ![[workshop-track-1.png]]
 
 Could have the pathway:
+
 ![[workshop-track-2.png]]
 
 1, Genome Assembly OR VGP-Galaxy - Assemble your contigs into usable assemblies 
+
 2, TreeVal - Generates tracks, maps and annotations useful for manual curation.
+
 3, Manual Curation - The manual manipulation of your assembly, potentially, into a reference standard genome.
 
 ### How you can help
