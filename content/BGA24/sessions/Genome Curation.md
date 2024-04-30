@@ -5,7 +5,7 @@ This session is part of [**Biodiversity Genomics Academy**](https://thebgacademy
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/manual-curation) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/thebgacademy/manual-curation) 
 > ![note] For BGA, please use the GitPod Environment!
-> If using the GitHub Codespace, fork to your own account first
+> If using the GitHub Codespace, fork to your own account first!
 ## Session Leader(s)
 
 Genome Reference Informatics Team, Wellcome Sanger Institute
