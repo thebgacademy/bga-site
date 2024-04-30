@@ -6,7 +6,6 @@ data_modified: 18_30-04-2024
 ---
 #BGA23/sessions #Visualisation #NCBI #QC #Workshop
 
-# Compare whole genome assembly alignments using NCBI’s Comparative Genome Viewer (CGV)
 
 > [!caution] This session may now be out of date so beware!!!
 > This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)

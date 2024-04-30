@@ -8,8 +8,6 @@ data_modified: 18_30-04-2024
 
 #BGA23/sessions #GOAT #Tools #Web_portal #Workshop
 
-# Querying genome metadata and sequencing projects using GoaT
-
 > [!caution] This session may now be out of date so beware!!!
 > This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
 
