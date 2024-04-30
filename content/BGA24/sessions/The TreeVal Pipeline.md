@@ -1,8 +1,14 @@
+---
+title: Generating evidence for manual curation
+date_created: 17-24_04_2024
+date_modified: 18-30_04_2024
+---
 # Generating evidence for manual curation
 #BGA24/sessions #GitPod #Generating_a_reference/2
 
-This session is part of [**Biodiversity Genomics Academy**](https://thebgacademy.org)
+This session is part of [[tags/BGA24]]
 
+> [!note] This Session has not been updated for BGA24 as of April 2024
 ## Session Leader(s)
 
 Tree of Life Assembly, Wellcome Sanger Institute
