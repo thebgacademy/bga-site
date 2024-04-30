@@ -1,5 +1,5 @@
 ---
-title: gfastar: a tool suite to assist genome assembly
+title: gfastar a tool suite to assist genome assembly
 alias: gfastar
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024

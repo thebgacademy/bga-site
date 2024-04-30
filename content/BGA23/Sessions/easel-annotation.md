@@ -1,5 +1,5 @@
 ---
-title: EASEL: software for eukaryotic structural and functional genome annotation
+title: EASEL software for eukaryotic structural and functional genome annotation
 alias: easel-annotation
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024

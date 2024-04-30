@@ -1,5 +1,5 @@
 ---
-title: The Treeval pipeline: Generating evidence for manual curation
+title: The Treeval pipeline Generating evidence for manual curation
 alias: treeval-curation
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024

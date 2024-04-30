@@ -1,5 +1,5 @@
 ---
-title: Starting a comparative genome study from CNGBdb: datasets, analysis platform, and spatial transcriptomics database
+title: Starting a comparative genome study from CNGBdb-datasets, analysis platform, and spatial transcriptomics database
 alias: cngbdb
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
