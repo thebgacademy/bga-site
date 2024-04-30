@@ -19,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    //Component.TagList(),
+    //Component.TagList(), // Removed as it creates a duplicated line in how I want things formatted
   ],
   left: [
     Component.PageTitle(),
