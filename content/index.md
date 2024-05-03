@@ -1,15 +1,17 @@
 ---
-title: Welcome to The Biodiversity Genomics Academy homepage!
+title: What about BG?
 created: 27/02/2024
+date_created: 18-03_05_2024
+date_modified: 18-03_05_2024
 ---
+
 ![[BGA_final.png]]
 <h1 align="center"> Join us October 1st - 26th  </h1>
 
 >[!info]
->This website is still in development and will not be complete for sometime. If there is anything wrong or you need something specific then please contact me Damon (this years organiser!) at 
-> 	--> `damon[@]thebgacademy.org` <-- 
-
-Welcome to BGA!!!
+>This website is still in development and will not be complete for sometime. If there is anything wrong or you need something specific then please contact me Damon (this years organiser!) at:
+> 
+> --> `damon[@]thebgacademy.org` <-- 
 
 BGA is a series of **free, open to all, online-only, short and interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth BioGenome Project](https://www.earthbiogenome.org/) and the field as a whole.
 
@@ -21,13 +23,13 @@ To register your interest for the year here's a form you can fill in! Once we ha
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
-If you already know you want to be a session leader then this is the form for you:
+<span align="center"> If you already know you want to be a session leader then this is the form for you: </span>
 
 <div align="center" data-fillout-id="k15yEJyr3xus" data-fillout-embed-type="popup" data-fillout-button-text="Session Leader Form" data-fillout-button-color="#9900EF"  data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
-<h3 align="center"> Find out more about this years BGA [[BGA24|HERE]] </h3>
+#### Find out more about this years BGA [[BGA24|HERE]]
 
 ## What is The BGA?
 
@@ -35,7 +37,7 @@ BGA was started with [[BGA23]], found here on the [original site](https://bga23.
 
 BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]]) aimed for 20 workshops and ~20 participants each. This culminated in >40 workshops with >1500 attendees. Simply amazing!
 
-### [[FAQs | BGA FAQs!]]
+## [[FAQs | BGA FAQs!]]
 
 # What about BG?
 
