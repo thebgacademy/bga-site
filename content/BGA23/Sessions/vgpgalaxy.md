@@ -1,8 +1,10 @@
 ---
 title: Assembling Genomes with the VGP-Galaxy Pipeline
-alias: vgpgalaxy
+aliases:
+  - vgpgalaxy
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: VGP-Galaxy Pipeline
 ---
 #BGA23/sessions #Galaxy #VGP #Pipeline #Assembly #Reads-to-Reference/1 #Workshop
 

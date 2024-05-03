@@ -1,8 +1,10 @@
 ---
 title: Compare whole genome assembly alignments using NCBI’s Comparative Genome Viewer (CGV)
-alias: ncbi-cgv
+aliases:
+  - ncbi-cgv
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: CGV and whole genome alignments
 ---
 #BGA23/sessions #Visualisation #NCBI #QC #Workshop
 

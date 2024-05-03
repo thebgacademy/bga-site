@@ -4,6 +4,7 @@ aliases:
   - gfastar
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: GFastar
 ---
 #BGA23/sessions #Tools #Gfastar #QC #Workshop
 

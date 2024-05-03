@@ -1,8 +1,10 @@
 ---
 title: Genome profiling using GenomeScope
-alias: genomescope
+aliases:
+  - genomescope
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: GenomeScope
 ---
 #BGA23/sessions #QC #GenomeScope #Kmers #Tools #Workshop
 

@@ -1,8 +1,10 @@
 ---
 title: Scalable telomere-to-telomere assembly with hifiasm
-alias: hifiasm-telomere
+aliases:
+  - hifiasm-telomere
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: HiFiasm on T2T assemblies
 ---
 #BGA23/sessions #Assembly #HiFiasm #Tools #Workshop
 

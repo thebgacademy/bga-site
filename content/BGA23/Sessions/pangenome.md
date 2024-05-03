@@ -1,8 +1,10 @@
 ---
 title: Pangenome Assembly and Assessment using Minigraph and Bandage
-alias: pangenome
+aliases:
+  - pangenome
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: Minigraph and Bandage for Pangenomes
 ---
 #BGA23/sessions #Assessment #Bandage #Minigraph #Workshop
 

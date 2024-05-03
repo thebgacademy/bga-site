@@ -1,8 +1,10 @@
 ---
 title: ENA Standards and Submission
-alias: ena-ebi-stands
+aliases:
+  - ena-ebi-stands
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: ENA Submission
 ---
 #BGA23/sessions #ENA #Submission #Standards #Workshop
 

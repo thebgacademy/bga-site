@@ -1,8 +1,10 @@
 ---
 title: BUSCO - from QC to gene prediction and phylogenomics
-alias: busco
+aliases:
+  - busco
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: BUSCO-QC and Phylogeny
 ---
 #BGA23/sessions #Pipeline #Workshop #BUSCO #Gene_prediction #Phylogenomics #QC
 

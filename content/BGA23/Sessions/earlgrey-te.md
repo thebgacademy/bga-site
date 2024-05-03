@@ -1,8 +1,10 @@
 ---
 title: Classifying Transposable Elements with Earl Grey TE
-alias: earlgrey-te
+aliases:
+  - earlgrey-te
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: Earl Grey TE
 ---
 #BGA23/sessions #Workshop #Earl_Grey_TE #Transposable_elements #TEs #Annotation 
 

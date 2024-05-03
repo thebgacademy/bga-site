@@ -1,8 +1,10 @@
 ---
 title: Introduction to Manual Curation - HiC and JBrowse
-alias: manual-curation
+aliases:
+  - manual-curation
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: Genomic Curation
 ---
 #BGA23/sessions #Process #Curation #Reads-to-Reference/3 #Pretext #Workshop
 

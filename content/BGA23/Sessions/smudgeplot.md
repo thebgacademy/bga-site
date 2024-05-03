@@ -4,6 +4,7 @@ aliases:
   - smudgeplot
 date_created: 18-30_04_2024
 data_modified: 18_30-04-2024
+search_name: Smudgeplot-Kmers and Ploidy
 ---
 
 #BGA23/sessions #Kmers #Smudgeplot #Workshop

@@ -1,8 +1,10 @@
 ---
 title: Assembling Mitogenomes from PacBio HiFi reads using MitoHiFi
-alias: MitoHiFi
+aliases:
+  - MitoHiFi
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: MitoHiFi - Assembling Mitos
 ---
 #BGA23/sessions #MitoHiFi #Assembly #Mitochondrion #PacBio #Pipeline #Workshop
 

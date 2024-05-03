@@ -4,6 +4,7 @@ aliases:
   - goat
 date_created: 18-30_04_2024
 data_modified: 18_30-04-2024
+search_name: GOAT-Querying genomic data
 ---
 
 #BGA23/sessions #GOAT #Tools #Web_portal #Workshop

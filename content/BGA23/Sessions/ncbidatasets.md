@@ -1,8 +1,10 @@
 ---
 title: Searching and Downloading Genome Data using NCBI Datasets
-alias: ncbidatasets
+aliases:
+  - ncbidatasets
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: NCBI Datasets
 ---
 #BGA23/sessions #Data_download #NCBI_datasets #Workshop
 

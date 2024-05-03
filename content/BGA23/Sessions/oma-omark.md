@@ -4,6 +4,7 @@ aliases:
   - oma-omark
 date_created: 18-30_04_2024
 data_modified: 18_30-04-2024
+search_name: OMA and OMArk
 ---
 
 #BGA23/sessions #Orthology #Homology #OMA #OMArk #Annotation #QC #Workshop

@@ -1,8 +1,10 @@
 ---
 title: ENA data retrieval and EMBL-EBI's Biodiversity Portals
-alias: enaebi-data
+aliases:
+  - enaebi-data
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: ENA-data retrieval
 ---
 #BGA23/sessions #ENA #Data_download #Web_portal #DTOL_portal #Workshop
 

@@ -1,8 +1,10 @@
 ---
 title: Aligning whole genomes using Cactus
-alias: cactus
+aliases:
+  - cactus
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: Alignments with Cactus
 ---
 #BGA23/sessions #Workshop #Cactus #Alignments #Tools 
 

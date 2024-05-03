@@ -1,8 +1,10 @@
 ---
 title: Checking for cobionts in public genomes using BlobToolKit
-alias: btk-view
+aliases:
+  - btk-view
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: BTK-view
 ---
 #BGA23/sessions #Workshop #Tools #Cobionts #BlobToolKit #BTK
 

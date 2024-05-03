@@ -1,8 +1,10 @@
 ---
 title: EASEL software for eukaryotic structural and functional genome annotation
-alias: easel-annotation
+aliases:
+  - easel-annotation
 date_created: 18_30-04-2024
 data_modified: 18_30-04-2024
+search_name: Annotation with EASEL
 ---
 #BGA23/sessions #EASEL #Annotation #Eukaryotes #Pipeline #Workshop
 
