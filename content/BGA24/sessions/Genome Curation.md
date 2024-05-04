@@ -3,12 +3,11 @@ title: Introduction to Manual Curation - HiC and JBrowse
 date_created: 17-26_04_2024
 date_modified: 18-30_04_2024
 ---
-# Introduction to Manual Curation - HiC and JBrowse
 #BGA24/sessions #GitPod #Generating_a_reference/3
 
 This session is part of [[tags/BGA24]]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/manual-curation) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/thebgacademy/manual-curation) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/manual-curation)     [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/thebgacademy/manual-curation) 
 > [!note] For BGA, please use the GitPod Environment!
 > If using the GitHub Codespace, fork to your own account first!
 ## Session Leader(s)
