@@ -3,5 +3,5 @@
 
 ###  Reads-To-Reference Workflow Track
 Getting from post sequencing reads, assembling the reads, generating supplementary data and then finally generating a Reference genome.
-[[tags/Reads-to-Reference]]
+[[Reads-to-Reference]]
 
