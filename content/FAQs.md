@@ -17,13 +17,13 @@ To a degree, some sessions will rely on small groups so that everyone can ask qu
 We will be using Zoom and will provide all details closer to the event to registered participants.
 
 **How will the community exist outside of the sessions?**  
-We will encourage participants to sign up to and use the existing community platforms for each tool. For the live sessions we, in 2023, we used Discord so everyone could talk to their *cohort*. We may follow something similar this year too.
+We will encourage participants to sign up to and use the existing community platforms for each tool. For the live sessions we, in 2023, used Discord so everyone could talk to their *cohort*. We may follow something similar this year too.
 
 **Will I need a powerful computer to participate?**  
-No, all you will need are a desktop browser and a GitHub account, as we will use Gitpod.io for sessions that need a linux command line.
+No, all you will need is a desktop browser and a GitHub account, as we will use Gitpod.io for sessions that need a linux command line.
 
 **Will sessions be spread/repeated across time zones?**  
-Yes, sessions will be repeated at least once across time zones, either live or as a recording (with the opportunity to ask additional questions). We will try to spread them as evenly as possible, however, this may not be possible depending on the location of the host and/or their commitments.
+Yes, sessions will be repeated at least once across time zones, either live or as a recording (with the opportunity to ask additional questions). We will try to spread them as evenly as possible; however, this may not be possible depending on the location of the host and/or their commitments.
 
 **Will there be assessment/self-assessment?**  
 No, these are not formal courses. They are opportunities to learn from the developers and experts in an informal and interactive setting.

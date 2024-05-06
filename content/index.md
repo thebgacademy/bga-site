@@ -2,14 +2,14 @@
 title: What about BG?
 created: 27/02/2024
 date_created: 18-03_05_2024
-date_modified: 18-03_05_2024
+date_modified: 19-06_05_2024
 ---
 
 ![[BGA_final.png]]
 <h1 align="center"> Join us October 1st - 26th  </h1>
 
 >[!info]
->This website is still in development and will not be complete for sometime. If there is anything wrong or you need something specific then please contact me Damon (this years organiser!) at:
+>This website is still in development and will not be complete for some time. If there is anything wrong or you need something specific then please contact me, Damon (this year's organiser!) at:
 > 
 > --> `damon[@]thebgacademy.org` <-- 
 
@@ -17,7 +17,7 @@ BGA is a series of **free, open to all, online-only, short and interactive** ses
 
 We are actively planning BGA24 right now and we want it bigger and better than last year!
 
-To register your interest for the year here's a form you can fill in! Once we have our session time table locked in, I'll send out a new questionnaire to ask which ones you'd like to attend. This will be so we can gage interest and may run some repeat sessions!
+To register your interest for this year, here's a form you can fill in! Once we have our session timetable locked in, I'll send out a new questionnaire to ask which ones you'd like to attend. This will be so we can gauge interest and may run some repeat sessions!
 
 <div align="center" data-fillout-id="s3AzWt1p8Nus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest!" data-fillout-button-color="#00D084" data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
 
@@ -29,11 +29,11 @@ To register your interest for the year here's a form you can fill in! Once we ha
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
-#### Find out more about this years BGA [[BGA24|HERE]]
+#### Find out more about this year's BGA [[BGA24|HERE]]
 
 ## What is The BGA?
 
-BGA was started with [[BGA23]], found here on the [original site](https://bga23.org/), however, going forward this will be the go to site for all things BGA! All Workshops, talks and guides will be directed to and from here to act as a central point in the eduction of bioinformaticians worldwide!
+BGA was started with [[BGA23]], found here on the [original site](https://bga23.org/); however, going forward this will be the go to site for all things BGA! All workshops, talks and guides will be directed to and from here, acting as the central point in the education of bioinformaticians worldwide!
 
 BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]]) aimed for 20 workshops and ~20 participants each. This culminated in >40 workshops with >1500 attendees. Simply amazing!
 
@@ -41,8 +41,11 @@ BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]])
 
 # What about BG?
 
-BGA works hand in hand with the BioDiversity Genomics conference (28th October - 1st November).
+BGA works hand in hand with the BioDiversity Genomics (BG) conference (28th October - 1st November).
 
 At BG you can join thousands of researchers worldwide and hear all the latest findings and ideas as we strive to complete the goals of the [Earth BioGenome Project](https://www.earthbiogenome.org/): “sequencing life for the future of life”. 
 
 The meeting will be a mix of sessions with invited talks, including keynote presentations, and open sessions proposed by researchers around the world. There will be a focus on regional initiatives and on the global drive to ensure equity and justice in biodiversity sequencing.
+
+## Social Media
+![[Socials]]
