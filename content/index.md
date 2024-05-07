@@ -1,6 +1,7 @@
 ---
-title: index
-alias: [Welcome to The BioDiversity Genomics Academy Homepage!]
+title: Welcome to The BioDiversity Genomics Academy Homepage!
+aliases:
+  - index
 created: 27/02/2024
 date_created: 18-03_05_2024
 date_modified: 19-07_05_2024
