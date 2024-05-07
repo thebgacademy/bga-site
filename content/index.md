@@ -1,8 +1,9 @@
 ---
-title: What about BG?
+title: index
+alias: [Welcome to The BioDiversity Genomics Academy Homepage!]
 created: 27/02/2024
 date_created: 18-03_05_2024
-date_modified: 19-06_05_2024
+date_modified: 19-07_05_2024
 ---
 
 ![[BGA_final.png]]
@@ -39,7 +40,7 @@ BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]])
 
 ## [[FAQs | BGA FAQs!]]
 
-# What about BG?
+## What about BG?
 
 BGA works hand in hand with the BioDiversity Genomics (BG) conference (28th October - 1st November).
 
