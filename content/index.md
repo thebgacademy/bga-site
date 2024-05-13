@@ -6,8 +6,7 @@ created: 27/02/2024
 date_created: 18-03_05_2024
 date_modified: 19-07_05_2024
 ---
-
-![[BGA_final.png]]
+![[BGA24_final_2.png]]
 <h1 align="center"> Join us October 1st - 26th  </h1>
 
 >[!info]
