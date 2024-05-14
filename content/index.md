@@ -42,7 +42,7 @@ BGA23 was the test bed, the team (the one man team at the time, [[Sujai Kumar]])
 
 ## What about BG?
 
-BGA works hand in hand with the BioDiversity Genomics (BG) conference (28th October - 1st November).
+BGA works hand in hand with the [BioDiversity Genomics (BG) conference](http://biodiversitygenomicsconference.org/) (28th October - 1st November).
 
 At BG you can join thousands of researchers worldwide and hear all the latest findings and ideas as we strive to complete the goals of the [Earth BioGenome Project](https://www.earthbiogenome.org/): “sequencing life for the future of life”. 
 

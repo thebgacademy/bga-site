@@ -6,7 +6,6 @@ description: Information about BGA24
 date_created: 15-10_04_2024
 date_modified: 17-24_04_2024
 ---
-
 Like last year we are offering workshops so people can show the community how their project/software/pipeline/analysis can be used and why they should use it. These workshops will, again, be hosted on [GitPod](https://gitpod.io/) which is a pretty perfect platform for this use case. Just beware you have 50 hours free, so if you want to tune into every session we hope to host then you may struggle! It is only 3.6p (GBP) per hour after those 50 hours, so not too bad. 
 
 This is BGA at its core.
