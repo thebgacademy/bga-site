@@ -11,9 +11,7 @@ date_modified: 19-07_05_2024
 <h1 align="center"> Join us between October 1st - 26th  </h1>
 
 >[!info]
->This website is still in development and will not be complete for some time. If there is anything wrong or you need something specific then please contact me, Damon (this year's organiser!) at:
-> 
-> --> `damon[@]thebgacademy.org` <-- 
+>If you have any burning questions or suggestions message me at damon[@]thebgacademy.org 
 
 BGA is a series of **free, open to all, online-only, short and interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth BioGenome Project](https://www.earthbiogenome.org/) and the field as a whole.
 
