@@ -1,0 +1,1 @@
+If people want to run lectures that they feel are too long and too detailed for the short time they may have for the BG conference then this may also be for them. Just beware, that the sheer nature of BGA means you will get questions!
