@@ -33,11 +33,11 @@ Current 7 confirmed sessions are:
 | GFastar                                                                 | [Giulio Formenti](https://twitter.com/giulio_formenti)                            | Rockefeller, USA              |
 | GOAT - Genomes on a Tree                                                | [Cibele Sotero-Caio](https://twitter.com/CibeleCaio)                              | Wellcome Sanger Institute, UK |
 | Annotating Genomes the Ensembl way                                      | Leanna Haggerty                                                                   | EMBL-EBI, UK                  |
-| Assembly and Curation of Bird Microchromosomes                          | [Thomas Mathers](https://twitter.com/Thomas_Mathers)                              | Wellcome Sanger Institute, UK |
+| Curation of Bird Micro-chromosomes with HiC and gene mapping            | [Thomas Mathers](https://twitter.com/Thomas_Mathers)                              | Wellcome Sanger Institute, UK |
 ### How you can help
 Share the news that BGA24 is coming!!
 
-Sign up for either being an Attendee or a Session Leader on the [[content/index|BGA homepage]]!!
+Sign up for either being an Attendee or a Session Leader on the [[content/index|BGA Homepage]]!!
 
 ## Social Media
 ![[Socials]]
