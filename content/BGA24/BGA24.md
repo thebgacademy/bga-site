@@ -23,7 +23,7 @@ We hope that we will have sessions to ensure that every time zone gets a chance 
 ## What sessions are on board already?
 We currently have a handful of talks confirmed already and are in discussion with many more!
 
-Current 7 confirmed sessions are:
+The current 8 confirmed sessions are:
 
 | Session                                                                 | Leader                                                                            | Affiliationi                  |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------- |
@@ -34,6 +34,7 @@ Current 7 confirmed sessions are:
 | GOAT - Genomes on a Tree                                                | [Cibele Sotero-Caio](https://twitter.com/CibeleCaio)                              | Wellcome Sanger Institute, UK |
 | Annotating Genomes the Ensembl way                                      | Leanna Haggerty                                                                   | EMBL-EBI, UK                  |
 | Curation of Bird Micro-chromosomes with HiC and gene mapping            | [Thomas Mathers](https://twitter.com/Thomas_Mathers)                              | Wellcome Sanger Institute, UK |
+| Genome Assembly in Galaxy with the VGP workflows                        | Delphine Lariviere                                                                | Penn State University, USA    |
 ### How you can help
 Share the news that BGA24 is coming!!
 
