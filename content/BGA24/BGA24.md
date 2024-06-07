@@ -23,20 +23,30 @@ We hope that we will have sessions to ensure that every time zone gets a chance 
 ## What sessions are on board already?
 We currently have a handful of talks confirmed already and are in discussion with many more!
 
-The current 8 confirmed sessions are:
+The current 10 confirmed sessions are:
 
-| Session                                                                 | Leader                                                                            | Affiliationi                  |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------- |
-| [[The TreeVal Pipeline\|TreeVal - Generating data for manual curation]] | [Damon-Lee Pointon](https://twitter.com/DLBPointon), Yumi Sims and William Eagles | Wellcome Sanger Institute, UK |
-| Scalable production assembly workflows in Galaxy                        | [Anton Nekrutenko](https://twitter.com/nekrut?lang=en)                            | Penn State University, USA    |
-| SmudgePlots and Kmers                                                   | [Kamil Jaron](https://twitter.com/KamilSJaron)                                    | Wellcome Sanger Institute, UK |
-| GFastar                                                                 | [Giulio Formenti](https://twitter.com/giulio_formenti)                            | Rockefeller, USA              |
-| GOAT - Genomes on a Tree                                                | [Cibele Sotero-Caio](https://twitter.com/CibeleCaio)                              | Wellcome Sanger Institute, UK |
-| Annotating Genomes the Ensembl way                                      | Leanna Haggerty                                                                   | EMBL-EBI, UK                  |
-| Curation of Bird Micro-chromosomes with HiC and gene mapping            | [Thomas Mathers](https://twitter.com/Thomas_Mathers)                              | Wellcome Sanger Institute, UK |
-| Genome Assembly in Galaxy with the VGP workflows                        | Delphine Lariviere                                                                | Penn State University, USA    |
+| Session                                                                 | Leader                                                                                      | Affiliation                                    |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| ASCC                                                                    | Eerik Aunin, [Damon-Lee Pointon](https://twitter.com/DLBPointon)                            | Wellcome Sanger Institute, UK                  |
+| Annotating Genomes the Ensembl way                                      | [Leanna Haggerty](https://www.ebi.ac.uk/people/person/leanne-haggerty/)                     | EMBL-EBI, UK                                   |
+| Braker3                                                                 | [Katherina Hoff](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/hoff/) | University of Greifswald, Germany              |
+| BUSCO                                                                   | [Evgeny Zdobnov, Mose Manni, Matthew Berkley](https://busco.ezlab.org/)                     | Swiss Institute of Bioinformatics, Switzerland |
+| Colora - A Snakemake Pipeline for Plants                                | Lia Obinu                                                                                   | University of Sassari, Italy                   |
+| Estimating ploidy directly from sequencing reads using smudgeplot.      | [Kamil Jaron](https://twitter.com/KamilSJaron)                                              | Wellcome Sanger Institute, UK                  |
+| ENA Standards and Submission                                            | [Maira Ihsan](https://www.ebi.ac.uk/people/person/maira-ihsan/)                             | EMBL-EBI, UK                                   |
+| Exploring Satellite DNA using ModDotPlot                                | Alex Sweeten                                                                                | Johns Hopkins University, United States        |
+| Genome Assembly in Galaxy with the VGP workflows                        | Delphine Lariviere                                                                          | Penn State University, USA                     |
+| Genome Assembly in Nextflow for the DTOL project                        | Ksenia Krasheninnikova                                                                      | Wellcome Sanger Institute, UK                  |
+| Genome Note Publications                                                | [Matthieu Muffato](https://www.sanger.ac.uk/person/muffato-matthieu/) (TBC)                 | Wellcome Sanger Institute, UK                  |
+| Genome profiling using Genomescope                                      | [Kamil Jaron](https://twitter.com/KamilSJaron)                                              | Wellcome Sanger Institute, UK                  |
+| GFastar                                                                 | [Giulio Formenti](https://twitter.com/giulio_formenti)                                      | Rockefeller, USA                               |
+| GOAT - Genomes on a Tree                                                | [Cibele Sotero-Caio](https://twitter.com/CibeleCaio)                                        | Wellcome Sanger Institute, UK                  |
+| Manual Curation of Bird Micro-chromosomes with HiC and gene mapping     | [Thomas Mathers](https://twitter.com/Thomas_Mathers)                                        | Wellcome Sanger Institute, UK                  |
+| Production in Galaxy for users and developers                           | [Anton Nekrutenko](https://twitter.com/nekrut?lang=en)                                      | Penn State University, USA                     |
+| [[The TreeVal Pipeline\|TreeVal - Generating data for manual curation]] | [Damon-Lee Pointon](https://twitter.com/DLBPointon), Yumi Sims and William Eagles           | Wellcome Sanger Institute, UK                  |
+[[Pasted image 20240607113440.png]]
 ### How you can help
-Share the news that BGA24 is coming!!
+Share the news that BGA24 is coming
 
 Sign up for either being an Attendee or a Session Leader on the [[content/index|BGA Homepage]]!!
 
