@@ -19,7 +19,7 @@ We are actively planning BGA24 right now and we want it bigger and better than l
 
 To register your interest for this year, here's a form you can fill in! Once we have our session timetable locked in, I'll send out a new questionnaire to ask which ones you'd like to attend. This will be so we can gauge interest and may run some repeat sessions!
 
-<h1 align="center"> <a href="https://thebgacademy.org/BGA24/BGA24"><u> Find out more about BGA24, and our confirmed sessions, here!  </u></a></h1>
+<h1 align="center"> <a href="https://thebgacademy.org/BGA24/BGA24"><u> Find out more about BGA24, and our sessions!  </u></a></h1>
 <div align="center" data-fillout-id="s3AzWt1p8Nus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest!" data-fillout-button-color="#00D084" data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
 
 
@@ -30,8 +30,6 @@ To register your interest for this year, here's a form you can fill in! Once we 
 <div align="center" data-fillout-id="k15yEJyr3xus" data-fillout-embed-type="popup" data-fillout-button-text="Session Leader Form" data-fillout-button-color="#9900EF"  data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
 
 <script src="https://server.fillout.com/embed/v1/"></script>
-
-#### Find out more about this year's BGA [[BGA24|HERE]]
 
 ## What is The BGA?
 
