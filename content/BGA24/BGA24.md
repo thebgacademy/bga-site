@@ -27,25 +27,38 @@ The current 10 confirmed sessions are:
 
 | Session                                                                 | Leader                                                                                          | Affiliation                                    |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| A deep dive into JBrowse 2 functionality | Colin Diesh | University of California, Berkeley, USA |
 | ASCC                                                                    | Eerik Aunin, [Damon-Lee Pointon](https://twitter.com/DLBPointon)                                | Wellcome Sanger Institute, UK                  |
 | Annotating Genomes the Ensembl way                                      | [Leanna Haggerty](https://www.ebi.ac.uk/people/person/leanne-haggerty/)                         | EMBL-EBI, UK                                   |
+| Behind the Bench (Part 1 & 2) | Caroline Howard, Graeme Oatley | Wellcome Sanger Institute, UK  |
 | Braker3                                                                 | [Katherina Hoff](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/hoff/)     | University of Greifswald, Germany              |
 | BUSCO                                                                   | [Evgeny Zdobnov, Mose Manni, Matthew Berkley](https://busco.ezlab.org/)                         | Swiss Institute of Bioinformatics, Switzerland |
 | Collaborative Annotation with Apollo 3                                  | [Matt Berrimen](https://www.gla.ac.uk/research/az/wcip/research/researchleaders/berrimangroup/) | University of Glasgow, UK                      |
 | De novo genome assembly with Colora                                     | Lia Obinu                                                                                       | University of Sassari, Italy                   |
 | Estimating ploidy directly from sequencing reads using smudgeplot.      | [Kamil Jaron](https://twitter.com/KamilSJaron)                                                  | Wellcome Sanger Institute, UK                  |
 | ENA Standards and Submission                                            | [Maira Ihsan](https://www.ebi.ac.uk/people/person/maira-ihsan/)                                 | EMBL-EBI, UK                                   |
+| EASEL and EnTAP: software for eukaryotic structural and functional genome annotation | Cynthia Webster, Alex Hart | University of Connecticut, USA |
 | Exploring Satellite DNA using ModDotPlot                                | Alex Sweeten                                                                                    | Johns Hopkins University, USA                  |
+| GENESPACE | John Lovelll | HudsonAlpha Institute for Biotechnology, USA |
 | Genome Assembly in Galaxy with the VGP workflows                        | Delphine Lariviere                                                                              | Penn State University, USA                     |
 | Genome Assembly in Nextflow for the DTOL project                        | Ksenia Krasheninnikova                                                                          | Wellcome Sanger Institute, UK                  |
 | Genome Note Publications                                                | [Matthieu Muffato](https://www.sanger.ac.uk/person/muffato-matthieu/) (TBC)                     | Wellcome Sanger Institute, UK                  |
 | Genome profiling using Genomescope                                      | [Kamil Jaron](https://twitter.com/KamilSJaron)                                                  | Wellcome Sanger Institute, UK                  |
 | GFastar                                                                 | [Giulio Formenti](https://twitter.com/giulio_formenti)                                          | Rockefeller, USA                               |
 | GOAT - Genomes on a Tree                                                | [Cibele Sotero-Caio](https://twitter.com/CibeleCaio)                                            | Wellcome Sanger Institute, UK                  |
+| Introduction to phylogenetic analysis | [Simon Ho]() | Sydney, Australia |
+| Inkscaping graphs and workflow diagrams | Petra Korlevic | Wellcome Sanger Institute, UK  |
+| Local Contexts | Stephany RunningHawk Johnson, Ashley Rojas, Diana Lovette, Ann McCartney, Corrie Roe, Emily Santhanam | USA |
+| Manual Curation (Part 1 & 2)     | Jo Wood, Joanna Collins, Dom Absolon                                           | Wellcome Sanger Institute, UK                  |
 | Manual Curation of Bird Micro-chromosomes with HiC and gene mapping     | [Thomas Mathers](https://twitter.com/Thomas_Mathers)                                            | Wellcome Sanger Institute, UK                  |
+| OMA and OMArk for homology exploration and gene annotation quality control | Yannis Nevers, Sina Majidian | University of Lausanne, Switzerland |
 | Production in Galaxy for users and developers                           | [Anton Nekrutenko](https://twitter.com/nekrut?lang=en)                                          | Penn State University, USA                     |
+| T2T assembly with verkko | Sergey Koren | NiH, USA |
+| Thinking in Cobiont Space | Amjad Khalaf | Wellcome Sanger Institute, UK |
 | [[The TreeVal Pipeline\|TreeVal - Generating data for manual curation]] | [Damon-Lee Pointon](https://twitter.com/DLBPointon), Yumi Sims and William Eagles               | Wellcome Sanger Institute, UK                  |
-| Wise Ancestors                                                          | Solenne Correard                                                                                | Wise Ancestors, USA                            |
+| Wise Ancestors model and platform                                       | [Solenne Correard](http://www.linkedin.com/in/solenne-correard-2a4675114)                       | Wise Ancestors, USA                            |
+
+30 Unique Sessions!
 
 ### How you can help
 Share the news that BGA24 is coming

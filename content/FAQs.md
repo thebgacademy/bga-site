@@ -32,4 +32,4 @@ No, these are not formal courses. They are opportunities to learn from the devel
 No. See above.
 
 **Who is organising this?**  
-The Tree of Life Programme at the Wellcome Sanger Institute in Cambridge, UK is the main host of Biodiversity Genomics Academy 2023. Please contact [[Sujai Kumar]] if you have any questions or suggestions.
+The Tree of Life Programme at the Wellcome Sanger Institute in Cambridge, UK is the main host of Biodiversity Genomics Academy 2023. Please contact damon [@] thebgacademy.org if you have any questions or suggestions.

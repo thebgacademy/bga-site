@@ -17,17 +17,20 @@ BGA is a series of **free, open to all, online-only, short and interactive** ses
 
 We are actively planning BGA24 right now and we want it bigger and better than last year!
 
-To register your interest for this year, here's a form you can fill in! Once we have our session timetable locked in, I'll send out a new questionnaire to ask which ones you'd like to attend. This will be so we can gauge interest and may run some repeat sessions!
+To register your interest for this year, here's a form you can fill in! Once we have our session timetable locked in, I'll send out a new questionnaire to ask which ones you'd like to attend. This will be so we can gauge interest and may run some repeat sessions! 
+
+Please be aware that due to the shear amount of interest, 
 
 <h1 align="center"> <a href="https://thebgacademy.org/BGA24/BGA24"><u> Find out more about BGA24, and our sessions!  </u></a></h1>
-<div align="center" data-fillout-id="s3AzWt1p8Nus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest!" data-fillout-button-color="#00D084" data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
+
+<div align="center" data-fillout-id="s3AzWt1p8Nus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest as a Participant!" data-fillout-button-color="#00D084" data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
 
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
 <span align="center"> If you already know you want to be a session leader then this is the form for you: </span>
 
-<div align="center" data-fillout-id="k15yEJyr3xus" data-fillout-embed-type="popup" data-fillout-button-text="Session Leader Form" data-fillout-button-color="#9900EF"  data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
+<div align="center" data-fillout-id="k15yEJyr3xus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest as a Session Leader!" data-fillout-button-color="#9900EF"  data-fillout-button-size="medium" data-fillout-inherit-parameters></div>
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
