@@ -7,14 +7,14 @@ We have put alot of work into TreeVal so hopefully you'll find it incredibly hel
 
 ## The Tutorial
 
-1, We will be using GitPod for this tutorial so [**SEND ME TO GITPOD!**](https://gitpod.io/#https://github.com/BGAcademy23/treeval-curation).
+1, We will be using GitPod for this tutorial so [**SEND ME TO GITPOD!**](https://gitpod.io/#https://github.com/thebgacademy/treeval-curation).
 
 2, The Nextflow command:
 
 ```
 nextflow run treeval/main.nf \
--profile singularity \
---input treeval/assets/local_testing/nxOscDF5033-BGA.yaml \
+-profile docker,arm \
+--input BGA-test.yaml \
 --outdir OscDF5033-TEST \
 -entry RAPID
 ```
@@ -93,9 +93,9 @@ higlass-manage ingest /tmp/higlass-docker/ilTolViri5_1_telomere.bed.beddb --data
 This pipeline can be run like such:
 
 ```
-nextflow run curationpretext/main.nf -profile singularity --input /workspace/treeval-curation/Oscheius_DF5033/genomic_data/Oscheius_DF5033.fa --pacbio /workspace/treeval-curation/Oscheius_DF5033/pacbio/ --cram /workspace/treeval-curation/Oscheius_DF5033/hic-arima2/ --outdir pretext_full -entry ALL_FILES
+nextflow run curationpretext/main.nf -profile docker,arm --input /workspace/treeval-curation/Oscheius_DF5033/genomic_data/Oscheius_DF5033.fa --pacbio /workspace/treeval-curation/Oscheius_DF5033/pacbio/ --cram /workspace/treeval-curation/Oscheius_DF5033/hic-arima2/ --outdir pretext_full -entry ALL_FILES
 ```
 
 ```
-nextflow run curationpretext/main.nf -profile singularity --input /workspace/treeval-curation/Oscheius_DF5033/genomic_data/Oscheius_DF5033.fa --cram /workspace/treeval-curation/Oscheius_DF5033/hic-arima2 --outdir pretext_maps -entry MAPS_ONLY
+nextflow run curationpretext/main.nf -profile docker,arm --input /workspace/treeval-curation/Oscheius_DF5033/genomic_data/Oscheius_DF5033.fa --cram /workspace/treeval-curation/Oscheius_DF5033/hic-arima2 --outdir pretext_maps -entry MAPS_ONLY
 ```
