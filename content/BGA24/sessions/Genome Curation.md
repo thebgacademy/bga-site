@@ -5,7 +5,7 @@ date_modified: 18-30_04_2024
 ---
 #BGA24/sessions #GitPod #Generating_a_reference/3
 
-This session is part of [[BGA24|tags/BGA24]]
+> [!caution] This session is part of [[tags/BGA24|BGA24]]
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/manual-curation)     [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/thebgacademy/manual-curation) 
 > [!note] For BGA, please use the GitPod Environment!

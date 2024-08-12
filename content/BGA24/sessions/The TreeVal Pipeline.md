@@ -5,7 +5,7 @@ date_modified: 18-30_04_2024
 ---
 #BGA24/sessions #GitPod #Generating_a_reference/2
 
-This session is part of [[tags/BGA24]]
+> [!caution] This session is part of [[tags/BGA24|BGA24]]
 
 > [!note] This Session has not been updated for BGA24 as of April 2024
 ## Session Leader(s)
