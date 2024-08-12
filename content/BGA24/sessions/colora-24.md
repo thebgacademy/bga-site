@@ -1,6 +1,7 @@
 ---
 title: De novo assembly with Colora
-aliases: colora
+aliases:
+  - colora-24
 date_created: 33_12-08-2024
 data_modified: 33_12-08-2024
 ---

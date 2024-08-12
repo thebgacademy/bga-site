@@ -1,10 +1,14 @@
 ---
 title: OMA and OMArk for homology exploration and gene annotation quality control
 aliases:
-  - oma-omark
+  - oma-omark-24
 date_created: 33_12-08-2024
 data_modified: 33_12-08-2024
 ---
+#BGA24/sessions #GitPod  #Workshop 
+
+YouTube recording will be added after the live session.
+
 > [!caution] This session is part of [[tags/BGA24|BGA24]]
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/oma-omark) 
