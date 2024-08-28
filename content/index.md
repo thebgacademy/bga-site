@@ -21,7 +21,7 @@ To register your interest for this year, here's a form you can fill in! Here you
 
 <h1 align="center"> <a href="https://thebgacademy.org/BGA24/BGA24"><u> Find out more about BGA24, and our sessions!  </u></a></h1>
 
-<div data-fillout-id="3TFeWECTwkus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest as a Attendee!" data-fillout-button-color="#088F8F" data-fillout-dynamic-resize data-fillout-inherit-parameters data-fillout-popup-size="medium"></div>
+<div align="center" data-fillout-id="3TFeWECTwkus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest as a Attendee!" data-fillout-button-color="#088F8F" data-fillout-dynamic-resize data-fillout-inherit-parameters data-fillout-popup-size="medium"></div>
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
