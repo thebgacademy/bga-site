@@ -15,11 +15,9 @@ date_modified: 19-07_05_2024
 
 BGA is a series of **free, open to all, online-only, short and interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth BioGenome Project](https://www.earthbiogenome.org/) and the field as a whole.
 
-We are actively planning BGA24 right now and we want it bigger and better than last year!
+<h1 align="center"> <a href="https://thebgacademy.org/BGA24/BGA24"><u> Find out more about our sessions!  </u></a></h1>
 
-To register your interest for this year, here's a form you can fill in! Here you will be able to sign up too specific sessions!
-
-<h1 align="center"> <a href="https://thebgacademy.org/BGA24/BGA24"><u> Find out more about BGA24, and our sessions!  </u></a></h1>
+Sign up to attend here:
 
 <div align="center" data-fillout-id="3TFeWECTwkus" data-fillout-embed-type="popup" data-fillout-button-text="Register your interest as a Attendee!" data-fillout-button-color="#088F8F" data-fillout-dynamic-resize data-fillout-inherit-parameters data-fillout-popup-size="medium"></div>
 
