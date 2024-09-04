@@ -1,7 +1,7 @@
 ---
-title: TreeVal-Generating evidence for manual curation
-date_created: 17-24_04_2024
-date_modified: 18-30_04_2024
+title: Wise Ancestors
+date_created: 36-03_09_2024
+date_modified: 36-03_09_2024
 ---
 #BGA24/sessions #Talk
 
