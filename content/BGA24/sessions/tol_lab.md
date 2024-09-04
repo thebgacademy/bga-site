@@ -12,6 +12,7 @@ date_modified: 36-03_09_2024
 ToL Lab
 - Caroline Howard
 - Graeme Oatley
+- ToL Lab Team
 
 ## Description
 This session will cover the wet lab processes employed by the Tree of Life Core Lab to generate high quality  genomic data. 
