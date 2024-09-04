@@ -7,11 +7,8 @@ data_modified: 33_12-08-2024
 ---
 #BGA24/sessions #GitPod #Workshop #BIoinfoBasics
 
-> [!caution] This session is part of [[tags/BGA24|BGA24]]
+> [!warning] This session is part of [[tags/BGA24|BGA24]] and has been cancelled.
 
-[![![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/intro_to_phylogenomics)
-
-[YouTube Recording](https://www.youtube.com/@thebiodiversitygenomicsacademy) <-- To be updated after BGA24
 
 ## Session Leader(s)
 Simon Ho - University of Sydney, Australia
