@@ -7,7 +7,6 @@ date_modified: 18-30_04_2024
 
 > [!caution] This session is part of [[tags/BGA24|BGA24]]
 
-> [!note] This Session has not been updated for BGA24 as of April 2024
 ## Session Leader(s)
 
 Tree of Life Assembly, Wellcome Sanger Institute
