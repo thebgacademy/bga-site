@@ -29,6 +29,10 @@ Sign up to attend here:
 
 <script src="https://server.fillout.com/embed/v1/"></script>
 
+## Where do we all come from?
+<iframe title="Attendee Location" aria-label="Map" id="datawrapper-chart-lItbj" src="https://datawrapper.dwcdn.net/lItbj/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="548" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ## What is The BGA?
 
 BGA was started with [[BGA23]], found here on the [original site](https://bga23.org/); however, going forward this will be the go to site for all things BGA! All workshops, talks and guides will be directed to and from here, acting as the central point in the education of bioinformaticians worldwide!
