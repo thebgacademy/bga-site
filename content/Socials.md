@@ -14,4 +14,6 @@ YouTube: [@thebiodiversitygenomicsacademy](https://www.youtube.com/channel/UCJPt
 
 Old YouTube: [@BGAcademy23](https://www.youtube.com/@BGAcademy23)
 
+GitHub: [thebgacademy](https://github.com/thebgacademy)
+
 Also Checkout: [The BioDiversity Genomics Conference](https://www.biodiversitygenomicsconference.org/)
