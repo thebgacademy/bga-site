@@ -46,79 +46,80 @@ By the end of this session you will be able to:
 
 Have you ever sequenced something not-well studied? Something that might show strange genomic signatures? Smudgeplot is a visualisation technique for whole-genome sequencing reads from a single individual. The visualisation techique is based on the idea of het-mers. Het-mers are k-mer pairs that are exactly one nucleotide pair away from each other, while forming a unique pair in the sequencing dataset. These k-mers are assumed to be mostly representing two alleles of a heterozygous, but potentially can also show pairing of imperfect paralogs, or sequencing errors paired up with a homozygous genomic k-mer. Nevertheless, the predicted ploidy by smudgeplot is simply the ploidy with the highest number of k-mer pairs (if a reasonable estimate must be evaluated for each individual case!).
 
-### Installing the software & detting some data
+### Constructing a FastK database and finding hetmers
 
-Open gitpod. And install the development version of smudgeplot (branch sploidyplot) & FastK. 
-
-```
-mkdir src bin && cd src # create directories for source code & binaries
-git clone -b sploidyplot https://github.com/KamilSJaron/smudgeplot
-git clone https://github.com/thegenemyers/FastK
-```
-
-Now smudgeplot make install smudgeplot R package, compiles the C kernel for searching for k-mer pairs and copy all the executables to `workspace/bin/` (which will be our dedicated spot for executables). 
-
-```
-cd smudgeplot
-make -s INSTALL_PREFIX=/workspace
-R -e 'install.packages(".", repos = NULL, type="source")' # install the R package
-cd ..
-smudgeplot.py -h # test the installation worked out nice
-cd FastK && make
-install -c FastK Fastrm Fastmv Fastcp Fastmerge Histex Tabex Profex Logex Vennex Symmex Haplex Homex Fastcat /workspace/bin/
-FastK # test the installation worked out nice
-cd ..
-```
-
-Now the software we need is installed, all we need is to download some data; There are 8 datasets for the 8 breakout session, here is a [table of accessions](https://docs.google.com/document/d/13SEd0cIx8BATqDtbLFHnwUwRrSfDYmVniVCqXptK6d0/edit?usp=sharing), we will use the same document to upload our results too; Pick the one that is corresponding to your breakout room, and replace the example one by one of yours. Fetch the data using `wget` command. E.g.
-
-```
-wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR926/SRR926341/SRR926341_[12].fastq.gz
-```
-
-### Constructing a database
-
-The whole process operates with raw, or trimmed sequencing reads. From those we generate a k-mer database using [FastK](https://github.com/thegenemyers/FASTK). FastK is currently the fastest k-mer counter out there and the only supported by the lastest version of smudgeplot*. This database contains an index of all the k-mers and their coverages in the sequencing readset. Within this set user must chose a theshold for excluding low frequencing k-mers that will be considered errors. That choice is not too difficult to make by looking at the k-mer spectra. Of all the retained k-mers we find all the het-mers. Then we plot a 2d histogram. 
-
+These k-mer analyses operate on raw, or trimmed sequencing reads. From those we generate a k-mer database using [FastK](https://github.com/thegenemyers/FASTK). FastK is currently the fastest k-mer counter out there and the only supported by the lastest version of smudgeplot*. This database contains an index of all the k-mers and their coverages in the sequencing readset.
 
 *Note: The previous versions of smudgeplot (up to 2.5.0) were operating on k-mer "dumps" flat files you can generate with any counter you like. You can imagine that text files are very inefficient to operate on. The new version is operating directly on the optimised k-mer database instead.
 
-So construct the datavase using FastK. This will take some minutes (15-20):
+To learn how to build a FastK database and learn how to find hetmers, we will use relatively small yeast data.
 
 ```
-FastK -v -t4 -k31 -M16 -T4 SRR926341_[12].fastq.gz -NSRR926341
+SAMPLE=SRR3265401
+FastK -v -t1 -k31 -M120 -T4 smudgeplot/data/Scer/"$SAMPLE"* -Nsmudgeplot/data/Scer/FastK_Table_"$SAMPLE"
 ```
 
-Now, that you have a database, you can search for k-mer pairs, but I would advice to take a moment and look at a k-mer spectra first. You can get k-mer spectra from the database using `Histex`, a different tool from the same suite.
+Now, that you have a database, you can search for k-mer pairs, but I would advice to take a moment and look at a k-mer spectra first. You can get k-mer spectra from the database using `Histex`, a different tool from the same suite. The generated k-mer histogram can be used to fit GenomeScope model.
 
 ```
-Histex -G SRR8495097 > SRR8495097_k31.hist
+Histex -G smudgeplot/data/Scer/FastK_Table_"$SAMPLE" > smudgeplot/data/Scer/"$SAMPLE"_k31.hist
 ```
 
-You can visualize this histogram in anyway, one faily easy one is uploading it to genomescope2 webserver: http://qb.cshl.edu/genomescope/genomescope2.0/ (use default ploidy parameter).
+(optional) run GenomeScope on that k-mer histogram. You can use preinstalled genomescope, or upload the histogram to genomescope2 webserver: http://genomescope.org/genomescope2.0/. Looking at a k-mer histogram; you should be able to see what is the coverage of the possible genomic k-mers. 
 
-Note: `.hist` is quite often used for text histogram files, but `FastK` also generates a binary `.hist` file; don't mix them up! ()
+To find all the k-mer pairs, we must chose a theshold for excluding low frequencing k-mers that will be considered errors with the aim of processing mostly real genomic k-mers. That choice is not too difficult to make by looking at the k-mer spectra. 
 
-Looking at a k-mer histogram; you should be able to see what is the coverage of the possible genomic k-mers. Also, upload your histogram to [the document](https://docs.google.com/document/d/13SEd0cIx8BATqDtbLFHnwUwRrSfDYmVniVCqXptK6d0/edit?usp=sharing) for our shared results, please. If we look at this example
+![image](https://github.com/user-attachments/assets/29b4100b-70aa-4a45-a93b-6fdd108e2ccc)
 
-![example](
-http://qb.cshl.edu/genomescope/genomescope2.0/user_data/QQbW8zXct8FErXPSt9Mw/linear_plot.png)
+In this example, a meaningful error threshold would be 10. As a rule of thumb, no dataset should have this threshold much below <10 unless it's a very clean sequencing run (you can separate error and genomic peaks). Furthermore, it is not the end of the world if we lose a bit of the real genomic k-mers (as long as there is enough signal). However these are just some gudances, what is sensible really depends on each individual datasets!
 
-In this example, a meaningful error threshold would be 40x. As a rule of thumb, no dataset should have this threshold <10, and it is not the end of the world if we lose a bit of the real genomic k-mers (as long as there is enough signal). However these are just some gudances, what is sensible really depends on each individual datasets!
-
-### Run smudgeplot
-
-The error threshold is sepcified by the '-L' parameter. We have 4 cores in the GitPod, so you can also run the k-mer pair search in paralel (parameter `-t`). This command will interanlly call a C-kernel optimised for the searched designed by Gene Myers. When executing, don't forget to use names of YOUR sample, not the example one.
+Now we can finally find k-mer pairs by running `smudgeplot.py hetmers`. This command will interanlly call a C-kernel optimised for the searched designed by Gene Myers. We specify `-L 10` (the coverage threshold for genomic k-mers) and use 4 threads (`-t`). The parameter `-o` just specifies the pattern for the output files
 
 ```
-smudgeplot.py hetmers -L 40 -t 4 --verbose -o SRR926341_k31_pairs SRR926341.ktab
+smudgeplot.py hetmers smudgeplot/data/Scer/FastK_Table_SRR3265401 -L 10 -t 4 -o smudgeplot/data/Scer/smudgeplot
+_pairs
 ```
 
-and finally, once the k-mer pairs are done. A `*_text.smu` file should be generated, it's a 2d histogram, for each combination of covA and covB there is the frequency in which these two coverages occur among the het-mers (the k-mer pairs one away from each other).
+Now a `smudgeplot/data/Scer/smudgeplot_pairs_text.smu` was created. You can take a look how it looks like
 
 ```
-head SRR926341_k31_pairs_text.smu
+(smudgeplot) gitpod /workspace $ head smudgeplot/data/Scer/smudgeplot_pairs_text.smu 
+10      10      300
+10      11      566
+10      12      530
+11      11      254
+10      13      576
+11      12      552
+10      14      552
+11      13      546
+12      12      328
+10      15      572
 ```
+
+### Infering coverage and plotting smudgeplot
+
+Plotting smudge requires knowing and infering 1n coverage. This coverage is the same 1n coverage estimated by GenomeScope and the tools must give a consistent estimate if we belive that both converged well. By default, smudgeplot will infer coverage as well as estimate sizes of all smudges. User can specify the limits for coverage inference as well as many other things (see `smudgeplot.py all -h` for all the options). For the yeast we will just run the default fit 
+
+```
+smudgeplot.py all smudgeplot/data/Scer/smudgeplot_pairs_text.smu -o smudgeplot/data/Scer/smudgeplot
+```
+
+and generate this smudgeplot
+
+<img width="668" alt="Screenshot 2024-10-18 at 01 49 52" src="https://github.com/user-attachments/assets/1c17caf2-7848-4691-9595-ce5ba41a424b">
+
+For more resolution on smaller smudges, look at the log version of the plot. What ploidy you think this yeast is? 
+
+<details>
+<summary><b> Answer </b></summary>
+Tetraploid, specifically of `AAAB` type. Notably, this constitution does not necesarily indicate one of the haplotypes is more divergent to others because we the B k-mers can be on different haplotype for each individual k-mer pair possibly making the 4 haplotypes equidistant. We can refute a hypothesis of two and two haplotypes that are closer to each genomes as subgenomes, as those would generate prominent AABB smudge, hence the genome is quite possibly autotetraploid.  
+</details>
+
+### Run smudgeplot on lots of data
+
+We provide you with a fine selection of 34 species saved in indexed subdirectories in `smudgeplot/data/`. For all those species we provide you with a k-mer histogram `*.hist` and with a file with all the k-mer pairs `*.smu.txt`. Both can be generated using FastK batabase build from raw sequencing reads, how to do that, look again at the previous section if you are not sure.
+
+We oranised the datasets in a [table of species](https://docs.google.com/document/d/1Ad_FSMoSUEtG0aBEJCa5jmZvAkjxkek9qiTVxSA4fE0/edit?usp=sharing), we will use the same document to upload our results too; Pick the one that is not taken yet, add your name to the document and analyse the dataset. 
 
 It you see three columns, it's a good sign. You can proceed to finally plot the smudgeplot. I would encourage to run `smudgeplot plot -h` to see all the options and understand what they mean, but a minimilistic command like this should do:
 
