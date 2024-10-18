@@ -16,4 +16,6 @@ Old YouTube: [@BGAcademy23](https://www.youtube.com/@BGAcademy23)
 
 GitHub: [thebgacademy](https://github.com/thebgacademy)
 
+Discord: [Discord Channel](https://discord.gg/xX8SN4P4)
+
 Also Checkout: [The BioDiversity Genomics Conference](https://www.biodiversitygenomicsconference.org/)
