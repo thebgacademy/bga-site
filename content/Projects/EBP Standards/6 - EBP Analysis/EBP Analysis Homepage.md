@@ -19,17 +19,26 @@ Below is a categorised list of sessions relevant to this subject:
 
 #### Alignments of Genomes and Synteny Analysis
 [[LastZ, MultiZ and MashMap]]
+
 [[Cactus]]
+
 [[Ragout]]
+
 [[SynMap]]
+
 [[HalSynteny]]
+
 [[Circos]]
+
 [[Genomicus]]
+
 [[Evolution Highway]]
 
 #### Repeat Content and Evolution
 [[Repeatmasker and Repeat Modeler]]
+
 [[REPET]]
+
 [[MITE-hunter and LTR Harvest]] (_de novo_ discovery)
 
 #### Partial or Whole-Genome Duplication
