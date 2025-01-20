@@ -11,4 +11,4 @@ date_modified: 03-20_01_2025
 This page is dedicated to the Projects which have reached out to collaborate with BGA as a place to list sessions used to describe their processes.
 
 ## The Earth Biogenome Project
-![[EBP Standards]]
+![[EBP Standards#What is this?]]
